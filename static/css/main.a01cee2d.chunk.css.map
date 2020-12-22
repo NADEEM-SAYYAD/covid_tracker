@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/component/cards/Cards.css"],"names":[],"mappings":"AAAA,UACI,aACJ,CACA,WACE,aACF,CACA,QACE,aACF","file":"main.a01cee2d.chunk.css","sourcesContent":[".Infected{\r\n    color:#17a2b8\r\n}\r\n.Recovered{\r\n  color :#28a745\r\n}\r\n.Deaths{\r\n  color:#dc3545\r\n}"]}
