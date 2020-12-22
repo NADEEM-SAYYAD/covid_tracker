@@ -15,9 +15,9 @@ const App = () => {
             const tempStore = [];
             const types = ["Infected", "Recovered", "Deaths"];
             const desc = [
-                "Number of active cases from COVID-19.",
-                "Number of recoveries from COVID-19.",
-                "Number of deaths caused by COVID-19.",
+                "Number of active cases from COVID-19",
+                "Number of recoveries from COVID-19",
+                "Number of deaths caused by COVID-19",
             ];
             const color = [
                 "rgb(23, 176, 215)",
