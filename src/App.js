@@ -1,4 +1,4 @@
-import React, { Component, useState, useEffect } from "react";
+import React, { useState, useEffect } from "react";
 import { Cards, Country, Charts } from "./component";
 import { getAllCovidCases, getCountries } from "./api";
 const App = () => {
